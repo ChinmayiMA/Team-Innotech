@@ -4,7 +4,10 @@ TraxiGuard is a comprehensive safety-focused Progressive Web App designed to pro
 The primary target audience includes daily commuters, frequent travelers, late-night riders, and safety-conscious individuals who want to provide peace of mind to their family and friends. The app addresses the critical safety concern of ride tracking by automating the communication process, eliminating the need for manual check-ins, and providing immediate alerts when route deviations occur.
 Team Members :
 <br>
-Chinmayi M A (lead)
+Chinmayi M A (lead) 
+<br>
 Adithya S
+<br>
 Amogh R Deshpande
+<br>
 D Arpitha
